@@ -1,1 +1,3 @@
-# Gen_AI_Project-
+# Gen_AI_Project
+
+1. This **QA System** project is an innovative web app built with **LangChain**, **FAISS**, and **Streamlit** 🤖. It transforms a CSV dataset of questions and answers into powerful embeddings using HuggingFace’s **all-mpnet-base-v2** model 🌟, then stores them in a FAISS vector database for quick and accurate retrieval 🚀. With a friendly interface and intelligent response generation powered by Groq's LLM, the system delivers context-aware answers—and gracefully says "I don't know" when needed 🤷‍♂️. Enjoy exploring the seamless blend of cutting-edge AI and interactive design in this project! 🎉
